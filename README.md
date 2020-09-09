@@ -1,4 +1,4 @@
-# JamieNewsLetterSignup
+# Jamie's Newsletter Signup
 Mailchimp API, JSON, Postman, HTTPS, HTML, CSS, Bootstrap, node.js, express.js 
 
 # About
